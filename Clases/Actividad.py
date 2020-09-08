@@ -5,7 +5,7 @@ MensajeFallido= "Fallastee, no es la vocal secreta"
 MensajeExitoso= "Excelenteee, adivinaste la vocal secreta"
 MensajeDerrota= "Lo siento, game over"
 MensajeDeDespedida= "Gracias por jugar, nos vemos ♥"
-MensajeVidas= ("Ten cuidado, has perdido{} vida(s), Te queda(n) {}")
+MensajeVidas= ("Ten cuidado, has perdido{} vida/s, Te queda/n {}")
 
 #Ciclos While
 
