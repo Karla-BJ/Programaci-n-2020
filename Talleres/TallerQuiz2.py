@@ -6,7 +6,7 @@ listaPesos =[20000,30000,4000,2500,1000,7600]
 preguntaEliminarLista='''
 Para eliminar un valor de la lista, tenga en cuenta que:0 corresponde a 20000
                                                         1 corresponde a 30000
-                                                        2 corresponde a 40000
+                                                        2 corresponde a 4000
                                                         3 corresponde a 2500
                                                         4 corresponde a 1000
                                                         5 corresponde a 7600
