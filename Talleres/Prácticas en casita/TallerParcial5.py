@@ -47,6 +47,7 @@ class Crítico (Paciente):
         decision= "si"
         listaSintomas2= []
         while(decision=="si"):
+            listaSintomas2= []
             sintomasIn2=input(f"¿Cuáles síntomas presenta el paciente? : ")
             listaSintomas2.append(sintomasIn2)
             decision= (input("""ingrese : 
