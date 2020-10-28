@@ -1,0 +1,5 @@
+Programación es el proceso de tomar un algoritmo 
+ y codificarlo en una notación, un lenguaje de programación, 
+ de modo que pueda ser ejecutado por una computadora.
+ Aunque existen muchos lenguajes de programación y muchos tipos diferentes de computadoras, 
+ el primer paso es la necesidad de tener una solución.
