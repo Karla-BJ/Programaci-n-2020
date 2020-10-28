@@ -12,3 +12,5 @@ with open ("parrafo.txt", encoding= "UTF-8") as lines:
     for line in lines:
         print (line)
         listaRenglones.append (line)
+
+print ("Trabajé en equipo con Laura Montoya ♥")
